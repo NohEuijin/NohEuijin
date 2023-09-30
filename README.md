@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=WELCOME&fontSize=90" width="100%"/>
 
 
-#  Tech Stack 
+#  Tech Stack <br><br><br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-#  About Me 
+#  About Me <br><br><br>
 
 <a href="[https://www.notion.so/Jung-So-E-da432f140fc24480b4683eba2641ebdc?pvs=4](https://stitch-alto-f83.notion.site/05fc3b199a824b3d8661eca0fed17c80?pvs=4)">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff" width="100px" height="30px"/></a>
