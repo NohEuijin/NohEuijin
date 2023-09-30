@@ -30,8 +30,8 @@
 # GitHub Stats
 
   
-![Noheuijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noheuijin&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noheuijin&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+![Noheuijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noheuijin&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noheuijin&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats) <br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noheuijin&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
