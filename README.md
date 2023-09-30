@@ -31,8 +31,17 @@
 </div>
 # GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NohEuijinshow_icons=true&theme=radical)
+  
+![Noheuijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noheuijin&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noheuijin&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noheuijin&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
 
+
+<div align="right">
+  
+[![](https://visitcount.itsvg.in/api?id=CJH0120&icon=7&color=6)](https://visitcount.itsvg.in)
+   
+</div>
 <!--
 **NohEuijin/NohEuijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
