@@ -4,7 +4,7 @@
 
 
 #  Tech Stack 
-
+<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
@@ -22,9 +22,12 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
 
 #  About Me 
-
+<br>
 <a href="[https://www.notion.so/Jung-So-E-da432f140fc24480b4683eba2641ebdc?pvs=4](https://stitch-alto-f83.notion.site/05fc3b199a824b3d8661eca0fed17c80?pvs=4)">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff" width="100px" height="30px"/></a>
 
@@ -33,9 +36,12 @@
 
   
 ![Noheuijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noheuijin&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noheuijin&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noheuijin&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<br>
+<br>
 
 <div align="right">
   
