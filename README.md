@@ -23,7 +23,7 @@
 
 #  About Me 
 
-<a href="[https://www.notion.so/Jung-So-E-da432f140fc24480b4683eba2641ebdc?pvs=4](https://stitch-alto-f83.notion.site/05fc3b199a824b3d8661eca0fed17c80?pvs=4)">
+<a href="https://stitch-alto-f83.notion.site/05fc3b199a824b3d8661eca0fed17c80?pvs=4">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff" width="100px" height="30px"/></a>
 
 </div>
