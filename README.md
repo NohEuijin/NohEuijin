@@ -31,7 +31,7 @@
 </div>
 # GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euijin1028&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NohEuijinshow_icons=true&theme=radical)
 
 <!--
 **NohEuijin/NohEuijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
